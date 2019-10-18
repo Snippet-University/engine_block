@@ -1,9 +1,5 @@
 # engine_block
-The completion stage for projects that passed calibration/diagnostics testing.
-
-
-# engine_block
-The 2nd stage for projects that did not pass calibration or 1st stage diagnostics testing. It serves as a hold-over for backlogs and dropbox for fixes. 
+The last stage for projects that passed calibration testing and build engine qualified. 
 
 Introduction to the Engine Diagnostics Workbench
 
